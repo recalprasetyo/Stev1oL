@@ -32,8 +32,8 @@
 
 ## GitHub Statistics
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=recalprasetyo&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <!-- <img src="https://github-stats-extended.vercel.app/api?username=recalprasetyo&show_icons=true&theme=dark#gh-dark-mode-only" /> -->
+  <!-- <img src="./profile/streak.svg" alt="GitHub Streak" /> -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark#gh-dark-mode-only" />
 </p>
 
