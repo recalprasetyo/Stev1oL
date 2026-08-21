@@ -65,8 +65,8 @@ Full stack applications.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/output/bomberman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/output/bomberman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recalprasetyo/stev1ol/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recalprasetyo/stev1ol/output/bomberman-contribution-graph.svg" />
     <img src="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/output/bomberman-contribution-graph-dark.svg" alt="Bomberman-style contribution graph" width="100%" />
   </picture>
 </p>
