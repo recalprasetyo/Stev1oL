@@ -1,24 +1,13 @@
-<!-- # <img src="./assets/profile-banner.svg" alt="Recal Prasetyo banner" width="100%" /> -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Recal%20Prasetyo&fontColor=100402&desc=Backend%20Developer&descAlignY=70&fontSize=60&animation=blinking" alt="Recal Prasetyo banner" />
-</p> -->
-
-<!-- <p align="center">
-  ☕ Coding Enthusiast | 🖥️ Backend Developer
-</p> -->
 # 👋🏻 Hello, I am Recal Prasetyo
 
 ### Check out my:
-<p align="center">
-  <a href="https://recal-portfolio.vercel.app">Portfolio</a>
+<a href="https://recal-portfolio.vercel.app">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/recalprasetyo">LinkedIn</a>
+<a href="https://www.linkedin.com/in/recalprasetyo">LinkedIn</a>
   ·
-  <a href="mailto:iamrecal10@gmail.com">Email</a>
-</p>
+<a href="mailto:iamrecal10@gmail.com">Email</a>
 
 ## Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
@@ -42,24 +31,11 @@
 </p>
 
 ## GitHub Statistics
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=recalprasetyo&show_icons=true&theme=dark#gh-dark-mode-only" />
   <img src="./profile/streak.svg" alt="GitHub Streak" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark#gh-dark-mode-only" />
 </p>
-<!-- <p align="center">
-</p> -->
-<!-- <p align="center">
-</p> -->
-
-<!-- <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=recalprasetyo&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p> -->
-
-<!-- <p>
-  <img src="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" />
-</p> -->
 
 <p>
   <picture>
