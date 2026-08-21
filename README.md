@@ -6,8 +6,8 @@
 <!-- <p align="center">
   ☕ Coding Enthusiast | 🖥️ Backend Developer
 </p> -->
-## Hello, I am Recal Prasetyo
 <p align="center">
+## 👋🏻 Hello, I am Recal Prasetyo
   <a href="https://recal-portfolio.vercel.app">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/recalprasetyo">LinkedIn</a>
