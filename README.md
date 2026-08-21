@@ -1,14 +1,14 @@
 <!-- # <img src="./assets/profile-banner.svg" alt="Recal Prasetyo banner" width="100%" /> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Recal%20Prasetyo&fontColor=100402&desc=Backend%20Developer&descAlignY=70&fontSize=60&animation=blinking" alt="Recal Prasetyo banner" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   ☕ Coding Enthusiast | 🖥️ Backend Developer
-</p>
+</p> -->
 
 <p align="center">
-  <a href="#">Portfolio</a>
+  <a href="https://recal-portfolio.vercel.app">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/recalprasetyo">LinkedIn</a>
   ·
