@@ -6,7 +6,7 @@
 <!-- <p align="center">
   ☕ Coding Enthusiast | 🖥️ Backend Developer
 </p> -->
-
+## Hello, I am Recal Prasetyo
 <p align="center">
   <a href="https://recal-portfolio.vercel.app">Portfolio</a>
   ·
@@ -39,29 +39,25 @@
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
-## Currently Building
-
-Full stack applications.
-
 ## GitHub Statistics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=recalprasetyo&show_icons=true&theme=dark#gh-dark-mode-only" />
-</p>
-<p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark#gh-dark-mode-only" />
 </p>
+<!-- <p align="center">
+</p> -->
+<!-- <p align="center">
+</p> -->
 
 <!-- <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=recalprasetyo&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 </p> -->
 
-<p>
-  <!-- <img src="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" /> -->
-</p>
+<!-- <p>
+  <img src="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" />
+</p> -->
 
 <p>
   <picture>
