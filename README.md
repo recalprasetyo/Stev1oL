@@ -6,9 +6,9 @@
 <!-- <p align="center">
   ☕ Coding Enthusiast | 🖥️ Backend Developer
 </p> -->
-### 👋🏻 Hello, I am Recal Prasetyo
+# 👋🏻 Hello, I am Recal Prasetyo
 
-# Check out my:
+### Check out my:
 <p align="center">
   <a href="https://recal-portfolio.vercel.app">Portfolio</a>
   ·
