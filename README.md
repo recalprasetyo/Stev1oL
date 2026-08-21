@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/stev1ol">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/recalprasetyo">LinkedIn</a>
   ·
   <a href="mailto:iamrecal10@gmail.com">Email</a>
 </p>
@@ -46,7 +46,7 @@ Full stack applications.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=stev1ol&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img src="https://github-stats-extended.vercel.app/api?username=recalprasetyo&show_icons=true&theme=dark#gh-dark-mode-only" />
 </p>
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
@@ -56,17 +56,17 @@ Full stack applications.
 </p>
 
 <!-- <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stev1ol&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=recalprasetyo&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 </p> -->
 
 <p>
-  <!-- <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" /> -->
 </p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/bomberman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/bomberman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/output/bomberman-contribution-graph-dark.svg" alt="Bomberman-style contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/output/bomberman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/recalprasetyo/recalprasetyo/output/bomberman-contribution-graph-dark.svg" alt="Bomberman-style contribution graph" width="100%" />
   </picture>
 </p>
